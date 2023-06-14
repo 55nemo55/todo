@@ -53,7 +53,7 @@ class MainPage extends StatelessWidget {
                   ],
                 ),
                 const SizedBox(
-                  height: 35,
+                  height: 55,
                 ),
                 RichText(
                     text: TextSpan(
